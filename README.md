@@ -39,7 +39,7 @@ Cursor — `~/.cursor/mcp.json`:
   "mcpServers": {
     "mixpla-knowledge": {
       "command": "node",
-      "args": ["/home/aidazi/WebstormProjects/micromcp/src/index.js"]
+      "args": ["/home/bill_gates/Projects/micromcp/src/index.js"]
     }
   }
 }
